@@ -1,0 +1,29 @@
+body {
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+
+  h3 {
+    font-size: 25px !important;
+    border-radius: 20px;
+    font-family: cursive;
+  }
+
+  hr {
+    background-color: black;
+    width: 70%;
+    height: 1px;
+    border-radius: 100%; 
+  }
+
+  button{
+    font-size: 25px;
+  }
+
+  canvas {
+    border: 2px solid black;
+    padding: auto;
+    border-radius: 10px;
+  }
